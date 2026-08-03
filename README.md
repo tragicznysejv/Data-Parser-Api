@@ -13,7 +13,7 @@ Aby przetestować aplikację na własnym komputerze, trzeba wykonać poniższe k
 ``bash
 git clone  https://github.com/tragicznysejv/Data-Parser-Api.git
 2. Drugim krokiem jest przejście do głównego folderu projektu:
-cd ParserDanychApi
+cd Data-Parser-Api
 3. Trzecim krokiem jest uruchomienie aplikacji poleceniem:
 dotnet run 
 4. Po skompilowniu i uruchomieniu serwera, konsola powinna wyświetlić adres, pod którym nasłuchuje API (np. https://localhost:7288)
@@ -34,7 +34,7 @@ To test the application on your own computer, follow these steps in a terminal (
 ``bash
 git clone  https://github.com/tragicznysejv/Data-Parser-Api.git
 2. The second step is to navigate to the project’s root folder:
-cd ParserDanychApi
+cd Data-Parser-Api
 3. The third step is to run the application using the command:
 dotnet run
 4. After the server has been compiled and started, the console should display the address where the API is listening (e.g., https://localhost:7288)
