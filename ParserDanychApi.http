@@ -1,0 +1,6 @@
+@ParserDanychApi_HostAddress = https://localhost:7288
+
+POST {{ParserDanychApi_HostAddress}}/api/v1/parse-content
+Content-Type: application/json
+
+###
